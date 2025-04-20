@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "price": 10.99,
+    "image": "https://example.com/gatsby.jpg",
+    "rating": 4.5,
+    "author": "F. Scott Fitzgerald",
+    "description": "A classic novel set in the 1920s."
+  },
+  {
+    "id": 2,
+    "name": "1984",
+    "price": 12.5,
+    "image": "https://example.com/1984.jpg",
+    "rating": 4.8,
+    "author": "George Orwell",
+    "description": "A dystopian social science fiction novel."
+  },
+  {
+    "id": 3,
+    "name": "To Kill a Mockingbird",
+    "price": 9.99,
+    "image": "https://example.com/mockingbird.jpg",
+    "rating": 4.7,
+    "author": "Harper Lee",
+    "description": "A novel about racial injustice."
+  },
+  {
+    "id": 4,
+    "name": "Moby Dick",
+    "price": 11.99,
+    "image": "https://example.com/mobydick.jpg",
+    "rating": 4.3,
+    "author": "Herman Melville",
+    "description": "A tale of obsession and revenge."
+  },
+  {
+    "id": 5,
+    "name": "War and Peace",
+    "price": 15.0,
+    "image": "https://example.com/warpeace.jpg",
+    "rating": 4.6,
+    "author": "Leo Tolstoy",
+    "description": "A historical novel set during the Napoleonic era."
+  },
+  {
+    "id": 6,
+    "name": "Pride and Prejudice",
+    "price": 8.99,
+    "image": "https://example.com/pride.jpg",
+    "rating": 4.9,
+    "author": "Jane Austen",
+    "description": "A romantic novel about manners and marriage."
+  },
+  {
+    "id": 7,
+    "name": "The Catcher in the Rye",
+    "price": 10.5,
+    "image": "https://example.com/catcher.jpg",
+    "rating": 4.2,
+    "author": "J.D. Salinger",
+    "description": "A story about teenage alienation."
+  },
+  {
+    "id": 8,
+    "name": "The Hobbit",
+    "price": 13.99,
+    "image": "https://example.com/hobbit.jpg",
+    "rating": 4.8,
+    "author": "J.R.R. Tolkien",
+    "description": "A fantasy adventure novel."
+  },
+  {
+    "id": 9,
+    "name": "Brave New World",
+    "price": 12.0,
+    "image": "https://example.com/bravenew.jpg",
+    "rating": 4.4,
+    "author": "Aldous Huxley",
+    "description": "A dystopian novel exploring a futuristic society."
+  },
+  {
+    "id": 10,
+    "name": "Crime and Punishment",
+    "price": 14.5,
+    "image": "https://example.com/crime.jpg",
+    "rating": 4.6,
+    "author": "Fyodor Dostoevsky",
+    "description": "A psychological novel about guilt and redemption."
+  },
+  {
+    "id": 11,
+    "name": "The Alchemist",
+    "price": 9.5,
+    "image": "https://example.com/alchemist.jpg",
+    "rating": 4.7,
+    "author": "Paulo Coelho",
+    "description": "A philosophical novel about following one's dreams."
+  },
+  {
+    "id": 12,
+    "name": "The Lord of the Rings",
+    "price": 20.0,
+    "image": "https://example.com/lotr.jpg",
+    "rating": 4.9,
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy trilogy."
+  },
+  {
+    "id": 13,
+    "name": "The Book Thief",
+    "price": 11.25,
+    "image": "https://example.com/thief.jpg",
+    "rating": 4.8,
+    "author": "Markus Zusak",
+    "description": "A novel set in Nazi Germany."
+  },
+  {
+    "id": 14,
+    "name": "Dracula",
+    "price": 10.75,
+    "image": "https://example.com/dracula.jpg",
+    "rating": 4.5,
+    "author": "Bram Stoker",
+    "description": "A gothic horror novel about vampires."
+  },
+  {
+    "id": 15,
+    "name": "Frankenstein",
+    "price": 9.0,
+    "image": "https://example.com/frankenstein.jpg",
+    "rating": 4.3,
+    "author": "Mary Shelley",
+    "description": "A classic science fiction novel."
+  },
+  {
+    "id": 16,
+    "name": "Les Misérables",
+    "price": 16.0,
+    "image": "https://example.com/lesmiserables.jpg",
+    "rating": 4.7,
+    "author": "Victor Hugo",
+    "description": "A novel about justice, redemption, and revolution."
+  },
+  {
+    "id": 17,
+    "name": "Jane Eyre",
+    "price": 10.25,
+    "image": "https://example.com/janeeyre.jpg",
+    "rating": 4.6,
+    "author": "Charlotte Brontë",
+    "description": "A coming-of-age novel."
+  },
+  {
+    "id": 18,
+    "name": "The Odyssey",
+    "price": 14.75,
+    "image": "https://example.com/odyssey.jpg",
+    "rating": 4.5,
+    "author": "Homer",
+    "description": "An ancient Greek epic poem."
+  },
+  {
+    "id": 19,
+    "name": "Anna Karenina",
+    "price": 13.5,
+    "image": "https://example.com/anna.jpg",
+    "rating": 4.8,
+    "author": "Leo Tolstoy",
+    "description": "A novel about love and betrayal."
+  },
+  {
+    "id": 20,
+    "name": "Fahrenheit 451",
+    "price": 12.25,
+    "image": "https://example.com/fahrenheit.jpg",
+    "rating": 4.7,
+    "author": "Ray Bradbury",
+    "description": "A dystopian novel about censorship."
+  }
+]
