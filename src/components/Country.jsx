@@ -13,8 +13,6 @@ const Country = ({myCountry,handleCartAdd}) => {
     
     handleCartAdd(myCountry)
     setVisited(!visited)
-    
-    
   }
 
   
